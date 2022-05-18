@@ -1,1 +1,1 @@
-web: gunicorn Leaderboard.wsgi
+web: gunicorn Leaderboard.wsgi --log-file-
